@@ -1,4 +1,4 @@
-# PlayTunes - Spotify Playlist Creator
+# Spotify Playlist Creator
 
 **PlayTunes** is a web application built with **React**, **TypeScript**, and the **Spotify API** that allows users to search for songs and create custom playlists. Users can add songs to their playlist and export their playlist to Spotify using their Spotify account.
 
